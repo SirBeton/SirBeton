@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto world
 - 🌱 I’m currently learning solidity
 - 💞️ I am a part of Kadena ecosystem
-- 📫 Come and say hi on my twitter https://twitter.com/Ada4Tomek
+- 📫 Come and say hi on my twitter
 
 <!---
 SirBeton/SirBeton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
